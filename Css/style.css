@@ -13,7 +13,7 @@
   width:100%;
   min-height: 100vh;
   /* Below creates a dark purple shade that fades away from left to right, adapted from GreatStack */
-  background-image: linear-gradient(to right, rgba(9,0,77,1) 0%, rgba(9,0,77,0.65) 50%, rgba(9,0,77,0.65) 50%, rgba(9,0,77,0) 100%),url("/Users/mac/Desktop/Assessment website/Images/DowntownDubai.png");
+  background-image: linear-gradient(to right, rgba(9,0,77,1) 0%, rgba(9,0,77,0.65) 50%, rgba(9,0,77,0.65) 50%, rgba(9,0,77,0) 100%),url("https://do84cgvgcm805.cloudfront.net/area/41/1180/9844134b4535f22b21656061cfd4b9f7af321a6bb1fb4c136db983f43ea5c30f.jpg");
   background-size: cover;
   background-position: center;
   padding: 10px 8%;
